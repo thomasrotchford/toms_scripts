@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+#appall
+#append all
+#program to append space to large number of files
+#this would allow one to add commit message to many in a git at once
+#the idea is to take files with ./* and append a space to each one
+
+for i in ./* 
+do
+	[[ -f "$i" ]] && printf ' ' >> "$i"
+done
