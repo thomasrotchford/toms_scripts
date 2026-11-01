@@ -1,6 +1,8 @@
-# pom
+# Tom's scripts
 
-simple shell project 
+collection of bash scripts
+
+pom
 
 pomodoro timer
 
