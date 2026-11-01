@@ -1,11 +1,11 @@
 # Tom's scripts
 
-## a collection of bash scripts
-- pom
-  
-args: work rest reps
-- appall
+### pom
+>
+> a simple pomodoro timer
+>
 
-pom
-
-
+### appall
+>
+> append text to all non-hidden files in a directory
+>
